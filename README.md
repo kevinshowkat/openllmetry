@@ -1,3 +1,12 @@
+> NOTE: This is a fork of traceloop/openllmetry.
+>
+> Changes in this fork:
+> - [fill in: short list of patches or behavior changes]
+> - [fill in: why this fork exists]
+>
+> If you want the upstream project and docs, see:
+> https://github.com/traceloop/openllmetry
+
 <p align="center">
 <a href="https://www.traceloop.com/openllmetry#gh-light-mode-only">
 <img width="600" src="https://raw.githubusercontent.com/traceloop/openllmetry/main/img/logo-light.png">
